@@ -48,17 +48,17 @@ Registro: Como já apresentado, a função registerBlockType será utilizada a f
 Edição: Essa função define como o bloco será exibido e editado. Esse é o ponto em que o usuário interage com o bloco. code
 </div>
 
-<div style="text-align: justify; margin-bottom: 1em;">
+<p style="text-align: justify; margin-bottom: 1em;">
 Atributos: Dados armazenados pelo bloco. Salvam seu conteúdo e são atualizados conforme as interações do usuário com o mesmo. code
-</div>
+</p>
 
-<div style="text-align: justify; margin-bottom: 1em;">
+<p style="text-align: justify; margin-bottom: 1em;">
 Salvamento: Define como o conteúdo será salvo no banco de dados. Utiliza os atributos definidos na função de edição e gera a marcação a ser exibida. code
-</div>
+</p>
 
-<div style="text-align: justify; margin-bottom: 1em;">
+<p style="text-align: justify; margin-bottom: 1em;">
 Por fim, o conteúdo publicado é renderizado no frontend do site.
-</div>
+</p>
 
 ## Posts
 
