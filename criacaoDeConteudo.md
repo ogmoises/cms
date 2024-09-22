@@ -2,9 +2,9 @@
 
 ## Blocos
 
-<div style="text-align: justify; margin-bottom: 1em;">
+<p style="text-align: justify; margin-bottom: 1em;">
 No contexto das plataformas de gestão de conteúdo (CMS), o conceito de blocos é central na construção de páginas e posts. Blocos são componentes que permitem a criação de layouts dinâmicos sem a necessidade de programação direta. Podem ser parágrafos, imagens, galerias, vídeos, botões ou códigos embutidos. Seu objetivo principal é facilitar o processo de criação de conteúdo.
-</div>
+</p>
 
 ## Criação de Blocos
 
